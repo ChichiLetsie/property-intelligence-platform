@@ -170,7 +170,7 @@ property-intelligence-platform/
 
 ## Current Status
 
-🚧 **Iteration 1 – Project Planning**
+**Iteration 1 – Project Planning**
 
 Current focus:
 
